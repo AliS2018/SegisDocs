@@ -24,7 +24,7 @@ public class DesignUI extends javax.swing.JFrame{
     public DesignUI() {
         initComponents();
     }
-        
+   /*     
 private Country[] createCountryList() {
     String[] countryCodes = Locale.getISOCountries();
     Country[] listCountry = new Country[countryCodes.length];
@@ -41,7 +41,7 @@ private Country[] createCountryList() {
  
     return listCountry;
 }
-
+*/
 //Country[] listCountry = createCountryList();
 
     /**
